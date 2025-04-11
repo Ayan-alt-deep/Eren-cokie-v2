@@ -1,11 +1,11 @@
 {
-  "name": "c3c-ufc-utility",
+  "name": "Eren-cokie-v2",
   "version": "2.0.1",
   "private": true,
   "description": "Import/export UFC file from/to C3C-supported platforms.",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/c3cbot/c3c-ufc-utility.git"
+    "url": "git+https://github.com/ayan-alt-deep/Eren-cokie-v2.git"
   },
   "scripts": {
     "dev": "vite",
@@ -13,10 +13,10 @@
     "lint": "eslint src --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview"
   },
-  "author": "BadAimWeeb",
+  "author": "Eren",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/c3cbot/c3c-ufc-utility/issues"
+    "url": "https://github.com/ayan-alt-deep/Eren-cokie-v2/issues"
   },
   "dependencies": {
     "@emotion/styled": "^11.13.0",
@@ -28,7 +28,7 @@
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
   },
-  "homepage": "https://github.com/c3cbot/c3c-ufc-utility#readme",
+  "homepage": "https://github.com/ayan-alt-deep/Eren-cokie-v2#readme",
   "devDependencies": {
     "@types/chrome": "^0.0.270",
     "@types/node": "^22.2.0",
